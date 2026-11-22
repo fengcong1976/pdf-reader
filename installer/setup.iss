@@ -2,7 +2,7 @@
 ; 编译：ISCC.exe installer\setup.iss
 
 #define MyAppName "PDF 阅读器"
-#define MyAppVersion "2.2"
+#define MyAppVersion "2.3"
 #define MyAppPublisher "深圳市创炫互动网络科技有限公司"
 #define MyAppExeName "PDF阅读器.exe"
 #define MyAppURL "http://www.mrheedu.com"

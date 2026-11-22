@@ -1,0 +1,3 @@
+PyMuPDF (fitz)
+许可：AGPL-3.0。项目地址：https://github.com/pymupdf/PyMuPDF
+AGPL-3.0 全文见同目录。

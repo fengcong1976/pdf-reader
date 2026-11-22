@@ -1,6 +1,6 @@
 # PDF 阅读器 2.1
 
-基于 PyQt6 + PyMuPDF 的 Windows 离线 PDF 阅读器。**2.1 新增「PDF 瘦身」**：把一个或一批 PDF 里的内嵌图片重新压缩，文字层、矢量图形、页数、原文件都不动，结果另存到原文件旁的 `out` 文件夹。
+基于 PySide6 + PyMuPDF 的 Windows 离线 PDF 阅读器。**2.1 新增「PDF 瘦身」**：把一个或一批 PDF 里的内嵌图片重新压缩，文字层、矢量图形、页数、原文件都不动，结果另存到原文件旁的 `out` 文件夹。
 
 - 官网：http://www.mrheedu.com
 - 开发者：深圳市创炫互动网络科技有限公司
@@ -90,4 +90,4 @@ PyInstaller 清理旧输出时会批量删几千个文件，可能触发安全�
 
 ## 依赖
 
-`requirements.txt`：PyQt6、PyMuPDF、Pillow、rapidocr-onnxruntime。瘦身引擎只用 PyMuPDF；Pillow 仅用于自检构造噪声样张。
+`requirements.txt`：PySide6、PyMuPDF、Pillow、rapidocr-onnxruntime。瘦身引擎只用 PyMuPDF；Pillow 仅用于自检构造噪声样张。
