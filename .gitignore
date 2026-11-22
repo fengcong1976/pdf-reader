@@ -1,0 +1,35 @@
+# 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 测试文件
+test.pdf
+*.bmk
+# --- 开源发布忽略规则 ---
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+msix/
+installer_output/
+verification/
+.screenshots/
+.workbuddy/
+.trae/
+.cache/
+.diag/
+*.log
+*.tmp
+.DS_Store
+installer/Output/
+installer/installer_output/
