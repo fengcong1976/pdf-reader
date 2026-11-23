@@ -1,5 +1,6 @@
 # PDF 阅读器 2.1
 
+> 免费下载与图文教程：<https://www.mrheedu.com/apps/pdf-reader>　·　更多免费软件：[www.mrheedu.com](https://www.mrheedu.com)
 基于 PySide6 + PyMuPDF 的 Windows 离线 PDF 阅读器。**2.1 新增「PDF 瘦身」**：把一个或一批 PDF 里的内嵌图片重新压缩，文字层、矢量图形、页数、原文件都不动，结果另存到原文件旁的 `out` 文件夹。
 
 - 官网：http://www.mrheedu.com
