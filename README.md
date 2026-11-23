@@ -92,3 +92,9 @@ PyInstaller 清理旧输出时会批量删几千个文件，可能触发安全�
 ## 依赖
 
 `requirements.txt`：PySide6、PyMuPDF、Pillow、rapidocr-onnxruntime。瘦身引擎只用 PyMuPDF；Pillow 仅用于自检构造噪声样张。
+
+---
+
+## 更多免费软件
+
+本工具由深圳市创炫互动网络科技有限公司开发，官网提供免费安装包、图文教程，以及更多永久免费的 Windows 软件：**[www.mrheedu.com](https://www.mrheedu.com)**
